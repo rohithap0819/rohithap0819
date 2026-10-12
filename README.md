@@ -4,20 +4,13 @@
 
 I turn data into insights and build practical applications that take machine learning **from experimentation to deployment**.
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprohith/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithap0819@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithap0819)
 
-<br/>
-
 [![Crypto MLOps Live Dashboard](https://img.shields.io/badge/🚀%20Live%20Dashboard-Open%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crypto-mlops.streamlit.app/)
 [![Crypto MLOps API](https://img.shields.io/badge/⚡%20Live%20API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://crypto-mlops.onrender.com/)
 [![Crypto MLOps Repository](https://img.shields.io/badge/Source%20Code-Crypto%20MLOps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithap0819/crypto-mlops)
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -36,21 +29,15 @@ I'm a **Data Analyst and Software Developer** interested in the full journey fro
 
 ### ₿ [Crypto MLOps — Real-Time Multi-Coin Prediction & Monitoring](https://github.com/rohithap0819/crypto-mlops)
 
-A multi-service MLOps project that connects live market-data ingestion, feature engineering, model inference, API serving, dashboards, and observability.
-
-<div align="center">
-
+A multi-service MLOps project connecting live market-data ingestion, feature engineering, model inference, API serving, dashboards, and observability.
 [![Open Live Dashboard](https://img.shields.io/badge/OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crypto-mlops.streamlit.app/)
 [![Open FastAPI](https://img.shields.io/badge/OPEN%20FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://crypto-mlops.onrender.com/)
 [![View Source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithap0819/crypto-mlops)
-
-</div>
-
 **What it includes**
 
 - Live Binance WebSocket ingestion for BTC, ETH, SOL, BNB, and XRP trading pairs.
 - Feature engineering with a 61-feature model input.
-- CatBoost + GRU ensemble for 5-minute direction classification, with a confidence-based `UP` / `DOWN` / `HOLD` output.
+- CatBoost + GRU ensemble for 5-minute direction classification, with confidence-based `UP` / `DOWN` / `HOLD` outputs.
 - MLflow experiment tracking and model artefacts.
 - FastAPI endpoints for market data, predictions, and monitoring.
 - Streamlit dashboard for market signals, confidence, charts, and MLOps health.
@@ -115,17 +102,11 @@ Browse my other work in data analysis, machine learning, Python applications, an
 ---
 
 ## 📊 GitHub Stats
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithap0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<div align="center">
+![Rohith's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rohithap0819&theme=tokyonight&hide_border=true)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohithap0819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rohith's GitHub stats" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithap0819&theme=tokyonight&hide_border=true" alt="Rohith's GitHub streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithap0819&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
-
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithap0819&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🤝 Let's Connect
@@ -135,14 +116,4 @@ I'm interested in opportunities and conversations around **data analytics, machi
 - 💼 [LinkedIn](https://www.linkedin.com/in/aprohith/)
 - 📧 [Email me](mailto:rohithap0819@gmail.com)
 - 🐙 [GitHub repositories](https://github.com/rohithap0819?tab=repositories)
-
-<div align="center">
-
 **Thanks for visiting my profile!** ⭐
-
-</div>
-'''
-path = "/mnt/data/README_profile.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme)
-print(f"Created: {path}")
