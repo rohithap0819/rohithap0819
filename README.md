@@ -1,5 +1,3 @@
-readme = r'''<div align="center">
-
 # 👋 Hi, I'm Rohith AP
 
 ### Data Analyst · Software Developer · Machine Learning & MLOps
